@@ -1,0 +1,5 @@
+ console.log(document.body.children) 
+       console.log(document.body.firstElementChild) 
+       console.log(document.body.lastElementChild) 
+       const header = document.body.querySelector("h1")
+       console.log(header.nextElementSibling) 
